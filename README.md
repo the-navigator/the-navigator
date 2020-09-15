@@ -4,7 +4,7 @@ This accound is owned by three high-school students who are working on open-sour
 
 ## 🕵 The team is currently working on its pioneer project: Libre.
 - 📚Libre is an open-source ***flexible digital library*** software.
-- :laptop: It was originally called "The Navigator"(hence our username).
+- 💻 It was originally called "The Navigator"(hence our username).
 - We have written its full software using .NET C# in Visual Studio.
 - 📃The project is copyrighted under *Philippine National Library* as of 2019.
 
