@@ -3,9 +3,9 @@
 This accound is owned by three high-school students who are working on open-source software to contribute possible solutions to educational problems in the system.
 
 ## 🕵 The team is currently working on its pioneer project: Libre.
--📚Libre is an open-source ***flexible digital library***
--We are looking for contributions as we are, as of now, amateurs and are only at the surface level of programming.
--We thank you for taking time to visit us! 
+- 📚Libre is an open-source ***flexible digital library***
+- We are looking for contributions as we are, as of now, amateurs and are only at the surface level of programming.
+- We thank you for taking time to visit us! 
 
 <!--
 **the-navigator/the-navigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
