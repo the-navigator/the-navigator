@@ -1,6 +1,6 @@
 # Konichiwazzup!
 
-This accound is owned by three high-school students who are working on open-source software to contribute possible solutions to educational problems in the system.
+This account is owned by three high-school students who are working on open-source software to contribute possible solutions to educational problems in the system.
 
 ## 🕵 The team is currently working on its pioneer project: Libre.
 - 📚Libre is an open-source ***flexible digital library*** software.
